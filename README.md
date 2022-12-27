@@ -1,2 +1,2 @@
-# Instagram-database-clone-
-instagram database clone project 
+# Instagram_Database_Clone
+mysql project
